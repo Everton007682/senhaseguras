@@ -107,10 +107,14 @@ body{
 
 
 lebel{
-    fonte-size: 20pix;
+    font-size: 20pix;
 }
 
-.checkbox{}
+.checkbox{
+    width: 20pix;
+    height:20pix;
+    cursor:pointer;
+}
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
         flex-direction: row;
