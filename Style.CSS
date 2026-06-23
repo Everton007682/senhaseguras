@@ -126,10 +126,18 @@ label {
     bottom: 30px;
 }
 .fraca{
-    width: 25%;
+ width: 25%;
     background-color: #E71B32;}
 
+.media {
+  width: 50%;
+    background-color: #FAF408;
+}
 
+.forte {
+    width: 100%;
+    background-color: #00ff85;
+}
 .paremetro-senhas-textos {
     display: flex;
     justify-content: space-between;
